@@ -1,0 +1,5 @@
+C:\Users\Елена\Desktop\Учёба\Программирование\Лабы\Laba6\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Елена\Desktop\Учёба\Программирование\Лабы\Laba6\Model\bin\Debug\Model.dll
+C:\Users\Елена\Desktop\Учёба\Программирование\Лабы\Laba6\Model\bin\Debug\Model.pdb
+C:\Users\Елена\Desktop\Учёба\Программирование\Лабы\Laba6\Model\obj\Debug\Model.dll
+C:\Users\Елена\Desktop\Учёба\Программирование\Лабы\Laba6\Model\obj\Debug\Model.pdb
